@@ -1,9 +1,9 @@
 # <p align=center> Mans CV <p/>
-Uzvārds Vārds: Bērziņš Arnolds
+Uzvārds Vārds: *Bērziņš Arnolds*
 
-Dzimšanas gads: 2004.02.03
+Dzimšanas gads: *2004.02.03*
 
-E-pasts: arnoldsb3@gmail.com
+E-pasts: *arnoldsb3@gmail.com*
 
 Mans attēls: ![Mans attēls](https://user-images.githubusercontent.com/78017323/106467803-d2908480-64a5-11eb-811a-e5265e0dd433.jpg)
 
@@ -16,11 +16,11 @@ Mans attēls: ![Mans attēls](https://user-images.githubusercontent.com/78017323
 ## Sasniegumi
 Vislielākie mani sasniegumi ir saistīti lielākoties ar skriešanu.
 
-2012-2015:
+**2012-2015:**
 * 10KM noskriešana 1H;
 * 3x 5KM 27min;
 
-2017-2020:
+**2017-2020:**
 * Bronzas, sudraba liecību saņemšana.
     
 
