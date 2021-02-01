@@ -9,6 +9,7 @@ Arnolds Bērziņš ![Mans attēls](C:\Users\Dators\Desktop\es.jpg)
 
 ## Pieredze programmēšanā
 |**Programmēšanas valodas**|**Mana pieredze**|
+|--------------------------|-----------------|
 |C++|Minimāla (*pašmācība*)|
 |Python|Skolā apgūtais|
 |Citas programmēšanas valodas|Nav|
