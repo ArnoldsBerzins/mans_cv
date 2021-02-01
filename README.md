@@ -1,5 +1,5 @@
 # Mans CV
-Arnolds Bērziņš ![Mans attēls](C:\Users\Dators\Desktop\es.jpg)
+Arnolds Bērziņš ![Mans attēls](https://user-images.githubusercontent.com/78017323/106464975-0bc6f580-64a2-11eb-9c46-2235ce3d8573.jpg)
 
 ## Izglītība
 
