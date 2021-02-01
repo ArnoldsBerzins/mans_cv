@@ -8,9 +8,16 @@ Arnolds Bērziņš ![Mans attēls](https://user-images.githubusercontent.com/780
 |Profesionālā vidējā izglītība | No 2020. gada līdz šim brīdim PIKC 'Rīgas Valsts tehnikums'|
 
 ## Sasniegumi
+Vislielākie mani sasniegumi ir saistīti lielākoties ar skriešanu:
+2012-2015:
+* 10KM noskriešana 1H;
+* 3x 5KM 27min;
+
+2017-2020:
+* Bronzas, sudraba liecību saņemšana.
+    
 
 ## Hobiji
-
 **Ikdienas hobiji:**
 * Pastaigas
 * Datorspēles
