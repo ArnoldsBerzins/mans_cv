@@ -10,6 +10,7 @@ Arnolds Bērziņš ![Mans attēls](C:\Users\Dators\Desktop\es.jpg)
 **Ikdienas hobiji:**
 * Pastaigas
 * Datorspēles
+
 **Hobiji, kurus veicu vismaz reizi nedēļā**
 * Skriešana
 * Riteņbraukšana
