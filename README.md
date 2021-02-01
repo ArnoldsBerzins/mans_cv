@@ -1,4 +1,4 @@
-# Mans CV
+# <p align=center> Mans CV <p/>
 Uzvārds Vārds: Bērziņš Arnolds
 
 Dzimšanas gads: 2004.02.03
