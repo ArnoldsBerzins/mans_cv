@@ -1,5 +1,8 @@
 # Mans CV
-Arnolds Bērziņš ![Mans attēls](https://user-images.githubusercontent.com/78017323/106464975-0bc6f580-64a2-11eb-9c46-2235ce3d8573.jpg)
+Uzvārds Vārds: Bērziņš Arnolds
+Dzimšanas gads: 2004.02.03
+E-pasts: arnoldsb3@gmail.com
+Mans attēls: ![Mans attēls](https://user-images.githubusercontent.com/78017323/106464975-0bc6f580-64a2-11eb-9c46-2235ce3d8573.jpg)size=540x540
 
 ## Izglītība
 |**Izglītības veids** | **Skola/s**|
