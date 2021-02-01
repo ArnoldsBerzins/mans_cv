@@ -21,7 +21,7 @@ Vislielākie mani sasniegumi ir saistīti lielākoties ar skriešanu.
 * 3x 5KM 27min;
 
 **2017-2020:**
-* Bronzas, sudraba liecību saņemšana.
+* Bronzas, sudraba liecību saņemšana mācībās.
     
 
 ## Hobiji
