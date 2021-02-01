@@ -4,7 +4,7 @@ Arnolds Bērziņš ![Mans attēls](https://user-images.githubusercontent.com/780
 ## Izglītība
 |**Izglītības veids** | **Skola/s**|
 |-------------------- | -----------|
-|Pamatizglītība | 2011.-2015. gads Matkules sākumskola '\n' 2015.-2020. gads Vānes pamatskola|
+|Pamatizglītība | 2011.-2015. gads Matkules sākumskola, 2015.-2020. gads Vānes pamatskola|
 |Profesionālā vidējā izglītība | No 2020. gada līdz šim brīdim PIKC 'Rīgas Valsts tehnikums'|
 
 ## Sasniegumi
